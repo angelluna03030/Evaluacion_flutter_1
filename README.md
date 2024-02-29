@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+**HOME**
+<img width="1243" alt="Home" src="img/imagen1.jpg">
+
+**Segunda Pages**
+
+<img width="1243" alt="segunda pagina" src="img/imagen2.jpg">
+
