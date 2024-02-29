@@ -15,12 +15,14 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-
 **HOME**
-<img width="250" alt="Home" src="img/imagen1.jpg">
 
-**Segunda Pages**
+<p align="center">
+  <img width="250" alt="Home" src="img/imagen1.jpg">
+</p>
 
-<img width="250" alt="segunda pagina" src="img/imagen2.jpg">
+**Segunda Página**
 
+<p align="center">
+  <img width="250" alt="Segunda pagina" src="img/imagen2.jpg">
+</p>
