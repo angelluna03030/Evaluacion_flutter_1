@@ -18,9 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 
 
 **HOME**
-<img width="1243" alt="Home" src="img/imagen1.jpg">
+<img width="250" alt="Home" src="img/imagen1.jpg">
 
 **Segunda Pages**
 
-<img width="1243" alt="segunda pagina" src="img/imagen2.jpg">
+<img width="250" alt="segunda pagina" src="img/imagen2.jpg">
 
